@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **prateeksen131@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search?q=resume](https://drive.google.com/drive/search?q=resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1D32_bfqCueXbS7CEmuTGGDbH2Fd8vxp4/view?usp=sharing]([https://drive.google.com/drive/search?q=resume](https://drive.google.com/file/d/1D32_bfqCueXbS7CEmuTGGDbH2Fd8vxp4/view?usp=sharing))
 
 - ⚡ Fun fact **I do mischievous acts**
 
