@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I do mischievous acts**
 
-<h3 align="left">Connect with me: Linkedin</h3>
+<h3 href="https://www.linkedin.com/in/prateek-sen-605ba11a0/" target="_blank" align="left">Connect with me: Linkedin</h3>
 <p align="left">
 </p>
 
