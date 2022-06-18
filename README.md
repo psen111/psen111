@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prateek Sen</h1>
 <h3 align="center">A passionate Web Developer and ML enthusiast</h3>
 
-- 🌱 I’m currently learning **Flask and Convolutional Neural Networks**
+- 🌱 I’m currently learning **Flask and Microservices**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
